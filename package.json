@@ -1,7 +1,7 @@
 {
-  "name": "@ravenrebels/ravencoin-message",
-  "version": "0.7.0",
-  "description": "Sign and Verify messages in Ravencoin",
+  "name": "@aidpproject/aidpcoin-message",
+  "version": "0.7.4",
+  "description": "Sign and Verify messages in Aidpcoin",
   "source": "index.ts",
   "main": "dist/main.js",
   "module": "dist/module.js",
@@ -12,18 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravenrebels/ravencoin-message.git"
+    "url": "git+https://github.com/aidpproject/aidpcoin-message.git"
   },
   "keywords": [
-    "Ravencoin",
-    "RVN"
+    "aidpcoin",
+    "AIDP"
   ],
   "author": "Dick Henrik Larsson / Raven Rebels",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ravenrebels/ravencoin-message/issues"
+    "url": "https://github.com/aidpproject/aidpcoin-message/issues"
   },
-  "homepage": "https://github.com/ravenrebels/ravencoin-message#readme",
+  "homepage": "https://github.com/aidpproject/aidpcoin-message#readme",
   "dependencies": {
     "bitcoinjs-message": "^2.2.0"
   },
