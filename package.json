@@ -1,6 +1,6 @@
 {
   "name": "@aidpproject/aidpcoin-message",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "description": "Sign and Verify messages in Aidpcoin",
   "source": "index.ts",
   "main": "dist/main.js",
